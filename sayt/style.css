@@ -1,0 +1,52 @@
+.head_part
+{
+	clear: both;
+	background-color: red;
+}
+
+.logo
+{
+	float: left;
+}
+
+.slogan
+{
+	float: right;
+	margin-top: 50px;
+	margin-right: 10px;
+	width: 400px;
+}
+
+.middle
+{
+	clear: both;
+}
+
+.vertical_menu
+{
+	clear: both;
+	float: left;
+	width: 180px;
+	background-color: white;
+}
+
+.content
+{
+	margin-left: 180px;
+	background-color: gray;
+}
+
+.vertical_menu_item
+{
+	font-size: 110%;
+	font-weight: bold;
+	padding: 3px 5px 3px 5px;
+}
+
+.copyright_line
+{
+	clear: both;
+	color: white;
+	padding: 10px;
+	background-color:  #900;
+}
